@@ -176,5 +176,5 @@ This project includes various visualizations to help interpret the data and deri
 
 ### Explore More
 For additional visualizations and a deeper dive into the analysis, please visit the **[visualizations](https://github.com/RohitRa200/EV-Sales-Analysis-India/tree/main/visualization)** folder.  
-You can also view the detailed analysis in the **`EV_Sales_Analysis.ipynb`** file.
+You can also view the detailed analysis in the **`[EV_Sales_in_Analysis.ipynb](https://github.com/RohitRa200/EV-Sales-Analysis-India/blob/main/ev_sales_in_India.Ipynb)`** file.
 
