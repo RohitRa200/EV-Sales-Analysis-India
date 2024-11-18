@@ -139,13 +139,7 @@ ev-sales-analysis/
 - **Cluster Analysis**: Segment markets based on sales patterns.
 - **Dashboard Development**: Create interactive dashboards for real-time analysis.
 
----
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## Author
 
