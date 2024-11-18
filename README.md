@@ -25,19 +25,27 @@ The dataset used in this project contains **96,846 rows** and **8 columns**, pro
   2. Maharashtra
   3. Karnataka
 - These states show the highest EV adoption rates, driven by supportive policies and demand.
+- ![image](https://github.com/user-attachments/assets/a3ba35aa-dbc5-4856-91b2-d4bedd0f0fa9)
+
   
 ### 2. EV Sales by Vehicle Class
 - **E-Rickshaw Passenger** leads as the most sold vehicle class.
 - Followed by **Motorcycles & Scooters**.
 - **E-Rickshaw with Cart** ranks third in popularity.
+- ![image](https://github.com/user-attachments/assets/8af3b85d-1d55-4f49-863f-cdfaede73514)
+
 
 ### 3. EV Sales by Vehicle Category
 - **3-Wheelers** dominate the market, followed by **2-Wheelers** and **4-Wheelers**.
+- ![image](https://github.com/user-attachments/assets/4ba74a44-d6c1-4cd2-83b2-99e69afb507b)
+
 
 ### 4. Most Sold EV Types
 - **Three-Wheeler (Shared, Low Speed)** is the most popular vehicle type.
 - **Two-Wheeler (Personal)** is the second-most sold category.
 - **Three-Wheeler (Goods, Low Speed)** ranks third.
+- ![image](https://github.com/user-attachments/assets/17343e6a-c1c7-4e4c-8a82-9b47ee7288f6)
+
 
 ---
 
