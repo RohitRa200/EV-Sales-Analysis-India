@@ -161,3 +161,20 @@ ev-sales-analysis/
 ## Acknowledgments
 
 Special thanks to the open-source community and the creators of the dataset used in this analysis.
+---
+
+## Visualizations
+
+This project includes various visualizations to help interpret the data and derive actionable insights. Below are the key visualizations:
+
+1. **Top States by EV Sales in India (2022)**: Highlights the leading states in EV adoption.
+2. **Top-Selling EV Vehicle Classes in India (2022)**: Displays the most popular vehicle classes.
+3. **EV Sales by Vehicle Category**: Illustrates the distribution of EV sales across 3-Wheelers, 2-Wheelers, and 4-Wheelers.
+4. **Top-Selling EV Types by Usage (2022)**: Compares the most sold EV types based on usage categories.
+5. **Market Share of EVs by State**: Shows the geographic distribution of EV adoption.
+6. **Contribution of Vehicle Categories to Total EV Sales**: Demonstrates the sales contribution of each vehicle category over time.
+
+### Explore More
+For additional visualizations and a deeper dive into the analysis, please visit the **[visualizations](./images/charts)** folder.  
+You can also view the detailed analysis in the **`EV_Sales_Analysis.ipynb`** file.
+
