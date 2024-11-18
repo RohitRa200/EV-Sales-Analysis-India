@@ -175,6 +175,6 @@ This project includes various visualizations to help interpret the data and deri
 6. **Contribution of Vehicle Categories to Total EV Sales**: Demonstrates the sales contribution of each vehicle category over time.
 
 ### Explore More
-For additional visualizations and a deeper dive into the analysis, please visit the **[visualizations](./images/charts)** folder.  
+For additional visualizations and a deeper dive into the analysis, please visit the **[visualizations](https://github.com/RohitRa200/EV-Sales-Analysis-India/tree/main/visualization)** folder.  
 You can also view the detailed analysis in the **`EV_Sales_Analysis.ipynb`** file.
 
