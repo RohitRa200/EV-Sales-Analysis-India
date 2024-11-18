@@ -25,8 +25,7 @@ The dataset used in this project contains **96,846 rows** and **8 columns**, pro
   2. Maharashtra
   3. Karnataka
 - These states show the highest EV adoption rates, driven by supportive policies and demand.
-- https://github.com/RohitRa200/EV-Sales-Analysis-India/blob/main/visualization/Ev%20sales%20Quantity%20by%20State.png?raw=true
-
+  
 ### 2. EV Sales by Vehicle Class
 - **E-Rickshaw Passenger** leads as the most sold vehicle class.
 - Followed by **Motorcycles & Scooters**.
