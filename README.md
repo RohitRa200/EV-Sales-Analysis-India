@@ -25,6 +25,7 @@ The dataset used in this project contains **96,846 rows** and **8 columns**, pro
   2. Maharashtra
   3. Karnataka
 - These states show the highest EV adoption rates, driven by supportive policies and demand.
+- visualization/Ev sales Quantity by State.png
 
 ### 2. EV Sales by Vehicle Class
 - **E-Rickshaw Passenger** leads as the most sold vehicle class.
